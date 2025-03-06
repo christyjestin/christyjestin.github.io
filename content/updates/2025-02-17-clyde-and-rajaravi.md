@@ -1,10 +1,8 @@
 ---
 date: 2025-02-17T16:49:10-05:00
-# description: ""
-# image: ""
 lastmod: 2025-02-17
 showTableOfContents: false
-# tags: ["",]
+tags: ['image generation', 'computer vision', 'painting', 'jax', 'clustering']
 title: 'Clyde and RajaRavi'
 type: 'post'
 ---

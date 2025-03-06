@@ -1,10 +1,8 @@
 ---
 date: 2025-02-17T16:49:10-05:00
-# description: ""
-# image: ""
 lastmod: 2025-02-17
 showTableOfContents: false
-# tags: ["",]
+tags: ['machine learning', 'prompt engineering', 'DeepSeek', 'LLMs']
 title: 'DeepSeek and Explicit Learning'
 type: 'post'
 ---
