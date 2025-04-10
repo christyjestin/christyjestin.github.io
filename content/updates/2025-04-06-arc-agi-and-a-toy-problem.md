@@ -1,5 +1,5 @@
 ---
-date: 2025-04-06T18:58:10-05:00
+date: 2025-04-06T18:58:10-04:00
 lastmod: 2025-04-06
 showTableOfContents: false
 tags: ['arc agi', 'benchmarks', 'machine learning']
