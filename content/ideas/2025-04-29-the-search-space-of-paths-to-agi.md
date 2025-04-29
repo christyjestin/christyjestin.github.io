@@ -1,6 +1,6 @@
 ---
-date: 2025-04-27T11:16:13-04:00
-lastmod: 2025-04-27
+date: 2025-04-29T03:16:13-04:00
+lastmod: 2025-04-29
 showTableOfContents: false
 tags: ['machine learning', 'reasoning', 'scaling', 'agi', 'intelligence']
 title: 'The Search Space of Paths to AGI'
