@@ -7,7 +7,7 @@ title: 'Continual Learning Benchmark Proposal'
 type: 'post'
 ---
 
-I'm gonna to try to make a benchmark for **continual learning**. I have a ton of uncertainty about how this should be done. This is an initial proposal laying out what I'm thinking right now, and I'd love any and all **[feedback](https://forms.gle/77RaaHtYJgeswcK6A)**. Skip ahead to the **[actual proposal](#a-modest-proposal)** here. Alright first,
+I'm gonna try to make a benchmark for **continual learning**. I have a ton of uncertainty about how this should be done. This is an initial proposal laying out what I'm thinking right now, and I'd love any and all **[feedback](https://forms.gle/77RaaHtYJgeswcK6A)**. Skip ahead to the **[actual proposal](#a-modest-proposal)** here. Alright first,
 
 # TF is Continual Learning?
 
