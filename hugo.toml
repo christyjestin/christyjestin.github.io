@@ -66,6 +66,10 @@ pygmentsStyle = "catppuccin-mocha"
         [markup.goldmark.extensions.passthrough.delimiters]
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)']]
+        [markup.goldmark.parser]
+          [markup.goldmark.parser.attribute]
+            block = true
+            title = true
     [markup.goldmark.renderer]
       unsafe = true
 
