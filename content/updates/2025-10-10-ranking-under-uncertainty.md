@@ -19,7 +19,7 @@ Ok, now that we have some motivation, let's think about the solution. In order t
 
 Thus the probability of preferring \(A\) is \(P(X > Y)\), and for general (independent) distributions \(X, Y\), we can express this with their respective PDFs and CDFs: \\[\int_{-\infty}^{\infty}f_{X}(x)F_{Y}(x)dx.\\] This form isn't pretty if you plug in the Gaussian PDF and CDF since we'd have to deal with an exponential and an error function. I was feeling quite daunted and tried formulating some alternative integrals: for example, there's a very natural connection to integration by parts:
 
-\\[\int_{-\infty}^{\infty}f_{X}(x)F_{Y}(x)dx = F_{X}(x)F_{Y}(x)\bigg|_{-\infty}^{\infty} - \int_{-\infty}^{\infty}F_{X}(x)f_{Y}(x)dx.\\]
+\\[\int_{-\infty}^{\infty}f_{X}(x)F_{Y}(x)dx = F_{X}(x)F_{Y}(x)\bigg\vert_{-\infty}^{\infty} - \int_{-\infty}^{\infty}F_{X}(x)f_{Y}(x)dx.\\]
 
 The first term is our \(P(X > Y)\), and the middle term evaluates to 1. The final term is an integral for \(P(X < Y)\), so in total we have \\[P(X > Y) = 1 - P(X < Y).\\] There are also some nice connections to indicator functions, LOTUS (the law of the unconscious statistician), and Adam's law.
 
