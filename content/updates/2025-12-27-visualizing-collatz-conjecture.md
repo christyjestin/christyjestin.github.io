@@ -21,7 +21,7 @@ Ok, so now suppose that we actually have a stable system with stationary distrib
 
 This gets us back to the most annoying thing about the conjecture. No matter how you look at the conjecture, it is easy to prove that there are infinitely many positive integers for which the rule applies, but that's not enough to say that it applies for all positive integers. After all, there are infinitely many odd numbers, but not all integers are odd.
 
-On the other hand, this might look like evidence that it doesn't apply for all positive integers: the max value of elements within length \(i\) is \(2^i\), but we only have something like \(1.2638^i\) elements in \(X_i\), so the fraction is actually getting sparser and sparser as \(i\) increases. This is still coherent, however, with the conjecture because the ``missed'' elements just have longer sequences: they're not actually missed. 5 doesn't have a sequence of length 3 (recall \(5 \leq 2 ^ 3 = 8\)), but it does have a sequence of length 5 (5 → 16 → 8 → 4 → 2 → 1). Alright well, hope this was interesting.
+On the other hand, this might look like evidence that it doesn't apply for all positive integers: the max value of elements within length \(i\) is \(2^i\), but we only have something like \(1.2638^i\) elements in \(X_i\), so the fraction is actually getting sparser and sparser as \(i\) increases. This is still coherent, however, with the conjecture because the "missed" elements just have longer sequences: they're not actually missed. 5 doesn't have a sequence of length 3 (recall \(5 \leq 2 ^ 3 = 8\)), but it does have a sequence of length 5 (5 → 16 → 8 → 4 → 2 → 1). Alright well, hope this was interesting.
 
 ## The Visualizer (Original Post)
 
